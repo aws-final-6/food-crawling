@@ -23,7 +23,9 @@ async def parsing_async(crawledHtml_li):
         try:
             href = result.find("a")["href"]
             title = result.find("h4").text
-            parsed_li.append([href, title])
+            trim = "손질" in title
+            storage = "보관" in title
+            parsed_li.append([href, title, trim, storage])
         except:
             pass
     return parsed_li
@@ -86,7 +88,7 @@ print(f"[File Length] {len(datas_li)} rows \n\n")
 with open('10000recipe_results.csv', mode='w', newline='', encoding='utf-8') as fd:
     csvWriter = csv.writer(fd)
     # 컬럼 헤더 작성
-    csvWriter.writerow(['URL', 'Title'])
+    csvWriter.writerow(['URL', 'Title', 'Trim', 'Storage'])
     # 크롤링 결과 작성
     csvWriter.writerows(datas_li)
 
