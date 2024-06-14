@@ -1,0 +1,65 @@
+[Start Time] 2024-06-13 15:22:49.749445
+[End Time] 2024-06-13 15:22:59.126652
+[Running Time] : 0:00:09.377207 (ms)
+[File Length] 162 rows 
+
+[Start Time] 2024-06-13 15:40:16.455622
+[End Time] 2024-06-13 15:40:30.326683
+[Running Time] : 0:00:13.871061 (ms)
+[File Length] 162 rows 
+
+[Start Time] 2024-06-13 18:14:12.187638
+[End Time] 2024-06-13 18:14:24.835798
+[Running Time] : 0:00:12.648160 (ms)
+[File Length] 2 rows 
+
+[Start Time] 2024-06-13 18:22:33.615554
+[End Time] 2024-06-13 18:22:47.512480
+[Running Time] : 0:00:13.896926 (ms)
+[File Length] 2 rows 
+
+[Start Time] 2024-06-13 18:31:57.188854
+[End Time] 2024-06-13 18:32:09.544038
+[Running Time] : 0:00:12.355184 (ms)
+[File Length] 2 rows 
+
+[Start Time] 2024-06-13 18:55:51.431791
+[End Time] 2024-06-13 18:55:55.440021
+[Running Time] : 0:00:04.008230 (ms)
+[File Length] 0 rows 
+
+[Start Time] 2024-06-13 19:00:44.467502
+[End Time] 2024-06-13 19:00:48.825478
+[Running Time] : 0:00:04.357976 (ms)
+[File Length] 0 rows 
+
+[Start Time] 2024-06-13 19:03:55.385463
+[End Time] 2024-06-13 19:04:14.954035
+[Running Time] : 0:00:19.568572 (ms)
+[File Length] 2 rows 
+
+[Start Time] 2024-06-13 19:32:10.401157
+[End Time] 2024-06-13 19:33:05.056457
+[Running Time] : 0:00:54.655300 (ms)
+[File Length] 0 rows 
+
+[Start Time] 2024-06-13 19:39:32.444540
+[End Time] 2024-06-13 19:39:49.067240
+[Running Time] : 0:00:16.622700 (ms)
+[File Length] 1 rows 
+
+[Start Time] 2024-06-13 19:51:51.461677
+[End Time] 2024-06-13 19:52:34.302106
+[Running Time] : 0:00:42.840429 (ms)
+[File Length] 3 rows 
+
+[Start Time] 2024-06-13 19:54:37.038125
+[End Time] 2024-06-13 19:55:10.876280
+[Running Time] : 0:00:33.838155 (ms)
+[File Length] 3 rows 
+
+[Start Time] 2024-06-14 00:34:09.339111
+[End Time] 2024-06-14 01:36:15.667722
+[Running Time] : 1:02:06.328611 (ms)
+[File Length] 638 rows 
+
