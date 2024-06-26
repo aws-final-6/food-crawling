@@ -85,7 +85,7 @@ print(f"[Running Time] : { endTime - startTime} (ms)\n")
 print(f"[File Length] {len(datas_li)} rows \n\n")
 
 # csv 출력
-with open('10000recipe_results.csv', mode='w', newline='', encoding='utf-8') as fd:
+with open('../10000recipe_results.csv', mode='w', newline='', encoding='utf-8') as fd:
     csvWriter = csv.writer(fd)
     # 컬럼 헤더 작성
     csvWriter.writerow(['URL', 'Title', 'Trim', 'Storage'])
